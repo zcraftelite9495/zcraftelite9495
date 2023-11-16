@@ -2,7 +2,7 @@
 ## Repositories
 1 [Coding Stuffs](https://github.com/zcraftelite9495/codingstuffs)
 ## Stats
-![image](https://metrics.lecoq.io/proudparrot2?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FChicago)
+![image](https://metrics.lecoq.io/zcraftelite9495?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FChicago)
 
 ![image](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
