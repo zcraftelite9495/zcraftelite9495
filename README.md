@@ -8,4 +8,6 @@
 <br>
 [![View aboutme on GitHub](https://img.shields.io/github/stars/zcraftelite9495/aboutme?color=232323&label=aboutme&logo=github&labelColor=232323)](https://github.com/zcraftelite9495/aboutme)
 ## Stats
-![Metrics](https://metrics.lecoq.io/zcraftelite9495?template=classic&languages=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FNew_York)
+![zcraftelite9495's Stats](https://github-readme-stats.vercel.app/api?username=zcraftelite9495&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![zcraftelite9495's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zcraftelite9495&theme=vue-dark&hide_border=true)
+![zcraftelite9495's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
