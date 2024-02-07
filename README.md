@@ -33,6 +33,6 @@
 
   ## 🗨️</br>Languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&bg_color=30,5d0979,dc00ff)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&bg_color=30,5d0979,dc00ff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
