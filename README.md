@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F72DD8&random=false&width=560&height=30&lines=.%2Fwelcome-to-my-profile.sh;.%2Fhello-there.sh;.%2Fowo.sh" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F72DD8&random=false&width=560&height=30&lines=.%2Fwelcome-to-my-profile.sh;.%2Fhello-there.sh;.%2Fowo.sh" alt="Typing SVG" /></a>
 <div align="center">
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=F72DD8&center=true&multiline=true&repeat=false&random=false&width=560&height=80&lines=Hello+World!;My+name+is+Z%2C+but+you+know+me+as+ZcraftElite;Welcome+to+my+profile!!!" alt="Typing SVG" /></a>
@@ -33,6 +33,6 @@
 
   ## 🗨️</br>Languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&bg_color=30,5d0979,dc00ff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&bg_color=30,5d0979,dc00ff&title_color=fff&text_color=fff" align="left"/>
 
 </div>
