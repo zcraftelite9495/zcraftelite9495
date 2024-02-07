@@ -6,8 +6,10 @@
   ---
   
   ### ⚧️</br>Pronouns
+  
   **She/Her/Hers - Fur/Fur/Furs - They/Them/Theirs - Bean/Bean/Beans**</br>
   [**See more at my Pronouns Page**](https://en.pronouns.page/@zcraftelite)
+  
 
   ### 🐕</br>About Me
 
@@ -22,3 +24,15 @@
   | <img src="https://skillicons.dev/icons?i=bash,py,html,css" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=visualstudio,vscode" alt="web dev" height="40"/> |
   | `>` **Most Used Social Medias** `<` | `>` **Dev Platforms** `<` |
   | <img src="https://skillicons.dev/icons?i=twitter,discord,github" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=gcp,gitlab,replit,git,github,githubactions" alt="web dev" height="40"/> |
+  
+  
+  ### 🎵</br>Music
+
+  | ![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=zcraftelite&theme=dark) |
+  |---|
+
+  ## 🗨️</br>Languages
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&bg_color=30,5d0979,dc00ff)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
