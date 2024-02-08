@@ -5,8 +5,10 @@
 
   ---
   
-  ## ⚧️</br>Pronouns
-  
+  ## ⚧️</br>Name & Pronouns
+
+  **Zena "Z" Comerford**</br>
+  **ZcraftElite**</br>
   **She/Her/Hers - Fur/Fur/Furs - They/Them/Theirs - Bean/Bean/Beans**</br>
   [**See more at my Pronouns Page**](https://en.pronouns.page/@zcraftelite)
   
@@ -19,22 +21,65 @@
   
   ## 🖱️</br>Stuffs I use
   
-  | `>` **Main languages** `<`  | `>` **Editors** `<` |
-  |:---------------------------:|:-------------------:|
-  | <img src="https://skillicons.dev/icons?i=bash,py,html,css" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=visualstudio,vscode" alt="web dev" height="40"/> |
-  | `>` **Most Used Social Medias** `<` | `>` **Dev Platforms** `<` |
-  | <img src="https://skillicons.dev/icons?i=twitter,discord,github" alt="web dev" height="40"/> | <img src="https://skillicons.dev/icons?i=gcp,gitlab,replit,git,github,githubactions" alt="web dev" height="40"/> |
-  
+   <table border="0">
+    <tr>
+     <th colspan="2"><code>></code> Languages <code><</code></th>
+     <th><code>></code> Language Charts <code><</code></th>
+     <th><code>></code> Editors <code><</code></th>
+     <th><code>></code> Socials <code><</code></th>
+     <th><code>></code> Dev Platforms <code><</code></th>
+    </tr>
+    <tr>
+     <td align="center">
+      <span>Bash</span></br><img src="https://skillicons.dev/icons?i=bash" height="40"/></br>
+      <span>Batch</span></br><img src="https://skillicons.dev/icons?i=bash" height="40"/></br>
+      <span>Python</span></br><img src="https://skillicons.dev/icons?i=python" height="40"/></br>
+      <span>HTML 5</span></br><img src="https://skillicons.dev/icons?i=html" height="40"/></br>
+      <span>CSS 3</span></br><img src="https://skillicons.dev/icons?i=css" height="40"/></br>
+     </td>
+     <td align="center">
+      <span>VBScript</span></br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/></br>
+     </td>
+     <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&layout=pie&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" align="center"/>
+     </td>
+     <td align="center">
+      <span>Visual Studio</span></br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/></br>
+      <span>VS Code</span></br><img src="https://skillicons.dev/icons?i=vscode" height="40"/></br>
+      <span>Sublime Text</span></br><img src="./owo.png" height="40"/></br>
+     </td>
+     <td align="center">
+      <span>Github</span></br><img src="https://skillicons.dev/icons?i=github" height="40"/></br>
+      <span>Discord</span></br><img src="https://skillicons.dev/icons?i=discord" height="40"/></br>
+      <span>Twitter</span></br><img src="https://skillicons.dev/icons?i=twitter" height="40"/></br>
+     </td>
+     <td align="center">
+      <span>Github Actions</span></br><img src="https://skillicons.dev/icons?i=githubactions" height="40"/></br>
+      <span>Github</span></br><img src="https://skillicons.dev/icons?i=github" height="40"/></br>
+      <span>Google Cloud</span></br><img src="https://skillicons.dev/icons?i=gcp" height="40"/></br>
+      <span>Repl.it</span></br><img src="https://skillicons.dev/icons?i=replit" height="40"/></br>
+      <span>Gitlab</span></br><img src="https://skillicons.dev/icons?i=gitlab" height="40"/></br>
+     </td>
+    </tr>
+   </table>
   
   ## 🎵</br>Music
 
-  | ![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=zcraftelite&theme=dark) |
-  |---|
-
-  ## 🗨️</br>Languages
-
-  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&layout=pie&bg_color=00000000&title_color=808080&text_color=808080&hide_border=true" align="center"/> |
-  |---|
+   <table>
+    <tr>
+     <th align="center"><code>></code> Last.fm <code><</code></th>
+    </tr>
+    <tr>
+     <td align="center"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=zcraftelite&theme=dark"/></td>
+    </tr>
+    <tr>
+     <th align="center"><code>></code> Spotify <code><</code></th>
+    </tr>
+    <tr>
+     <td align="center"><img src="https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg"/></td>
+    </tr>
+   </table>
+  
 
   ## 📓</br>Repos I contribute to
    
