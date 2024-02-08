@@ -35,5 +35,11 @@
 
   | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&layout=pie&bg_color=00000000&title_color=808080&text_color=808080&hide_border=true" align="center"/> |
   |---|
+
+  ## 📓</br>Repos I contribute to
+   
+   | <img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=codingstuffs&bg_color=00000000&hide_border=true" alt="repo" align="left"/> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flow-Works&repo=FlowOS&bg_color=00000000&hide_border=true" alt="repo" align="left"/> |
+   |---|---|
+   | <img src="https://github-readme-stats.vercel.app/api/pin/?username=lastfm&repo=lastfm-desktop&bg_color=00000000&hide_border=true" alt="repo" align="left"/> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=clementine-player&repo=Clementine&bg_color=00000000&hide_border=true" alt="repo" align="left"/> |
   
 </div>
