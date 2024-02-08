@@ -33,6 +33,6 @@
 
   ## 🗨️</br>Languages
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&layout=pie&bg_color=30,5d0979,dc00ff&title_color=fff&text_color=fff" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=zcraftelite9495&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&layout=pie&bg_color=00000000&title_color=808080&text_color=808080" align="center"/>
+  
 </div>
