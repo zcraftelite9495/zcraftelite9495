@@ -15,8 +15,19 @@
 
   ## 🐕</br>About Me
 
-  | `👧` I am a transfem</br>`🐶` I am a professional doog</br>`🏫` Always been known as the hacker kid at school</br>`❤️` Taken since 09/12/23</br>`📺` Giant fan of Helluva Boss & Hazbin hotel</br>`💻` Loves to code random useful utilities and random things |
-  |:---|
+  <table>
+   <tr>
+    <th align="left">
+     <code>👧</code> Transfem </br>
+     <code>🐶</code> Professional skull-dog protogen </br>
+     <code>🏫</code> Always been known as the hacker kid at school </br>
+     <code>❤️</code> Taken since 09/12/23 </br>
+     <code>📺</code> Giant fan of Helluva Boss & Hazbin hotel </br>
+     <code>🖥️</code> Loves to code random useful utilities and random things </br>
+     <code>🗨️</code> Talks constantly on Discord (when I don't have school) </br>
+    </th>
+   </tr>
+  </table>
 
   
   ## 🖱️</br>Stuffs I use
@@ -24,10 +35,7 @@
    <table border="0">
     <tr>
      <th colspan="2"><code>></code> Langs <code><</code></th>
-     <th><code>></code> Language Charts <code><</code></th>
-     <th><code>></code> Editors <code><</code></th>
-     <th><code>></code> Socials <code><</code></th>
-     <th><code>></code> Platforms <code><</code></th>
+     <th colspan="2"><code>></code> Language Charts <code><</code></th>
     </tr>
     <tr>
      <td align="center">
@@ -40,9 +48,16 @@
      <td align="center">
       <span>VBScript</span></br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/></br>
      </td>
-     <td>
+     <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" align="center"/>
      </td>
+    </tr>
+    <tr>
+     <th><code>></code> Editors <code><</code></th>
+     <th><code>></code> Socials <code><</code></th>
+     <th colspan="2"><code>></code> Platforms <code><</code></th>
+    </tr>
+    <tr>
      <td align="center">
       <span>Visual Studio</span></br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/></br>
       <span>VS Code</span></br><img src="https://skillicons.dev/icons?i=vscode" height="40"/></br>
@@ -57,6 +72,8 @@
       <span>Github Actions</span></br><img src="https://skillicons.dev/icons?i=githubactions" height="40"/></br>
       <span>Github</span></br><img src="https://skillicons.dev/icons?i=github" height="40"/></br>
       <span>Google Cloud</span></br><img src="https://skillicons.dev/icons?i=gcp" height="40"/></br>
+     </td>
+     <td align="center">
       <span>Repl.it</span></br><img src="https://skillicons.dev/icons?i=replit" height="40"/></br>
       <span>Gitlab</span></br><img src="https://skillicons.dev/icons?i=gitlab" height="40"/></br>
      </td>
@@ -67,16 +84,18 @@
 
    <table>
     <tr>
-     <th align="center"><code>></code> Last.fm <code><</code></th>
-    </tr>
-    <tr>
-     <td align="center"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=zcraftelite&theme=dark"/></td>
-    </tr>
-    <tr>
      <th align="center"><code>></code> Spotify <code><</code></th>
     </tr>
     <tr>
      <td align="center"><img src="https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg"/></td>
+    </tr>
+   </table>
+   <table>
+    <tr>
+     <th align="center"><code>></code> Last.fm <code><</code></th>
+    </tr>
+    <tr>
+     <td align="center"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=zcraftelite&theme=dark"/></td>
     </tr>
    </table>
   
