@@ -23,11 +23,11 @@
   
    <table border="0">
     <tr>
-     <th colspan="2"><code>></code> Languages <code><</code></th>
+     <th colspan="2"><code>></code> Langs <code><</code></th>
      <th><code>></code> Language Charts <code><</code></th>
      <th><code>></code> Editors <code><</code></th>
      <th><code>></code> Socials <code><</code></th>
-     <th><code>></code> Dev Platforms <code><</code></th>
+     <th><code>></code> Platforms <code><</code></th>
     </tr>
     <tr>
      <td align="center">
@@ -41,7 +41,7 @@
       <span>VBScript</span></br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/></br>
      </td>
      <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&layout=pie&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" align="center"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" align="center"/>
      </td>
      <td align="center">
       <span>Visual Studio</span></br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/></br>
