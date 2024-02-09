@@ -91,7 +91,7 @@
     </tr>
    </table>
   </div>
-  <div align="left">
+  <div align="right">
    <table>
     <tr>
      <th align="center"><code>></code> Last.fm <code><</code></th>
