@@ -102,8 +102,23 @@
 
   ## 📓</br>Repos I contribute to
    
-   | <img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=codingstuffs&bg_color=00000000&hide_border=true" alt="repo" align="left"/> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flow-Works&repo=FlowOS&bg_color=00000000&hide_border=true" alt="repo" align="left"/> |
+  <table>
+    <tr>
+      <td align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=codingstuffs&bg_color=00000000&hide_border=true" alt="repo" align="left"/></td>
+      <td align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Flow-Works&repo=FlowOS&bg_color=00000000&hide_border=true" alt="repo" align="left"/></td>
+    </tr>
+    <tr>
+      <td align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lastfm&repo=lastfm-desktop&bg_color=00000000&hide_border=true" alt="repo" align="left"/></td>
+      <td align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=clementine-player&repo=Clementine&bg_color=00000000&hide_border=true" alt="repo" align="left"/></td>
+    </tr>
+    <tr>
+      <td align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=zcraftelite9495&bg_color=00000000&hide_border=true" alt="repo" align="left"/></td>
+      <td align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=Z-NET-Auth-System&bg_color=00000000&hide_border=true" alt="repo" align="left"/></td>
+    </tr>
+  </table>
+
+   |  |  |
    |---|---|
-   | <img src="https://github-readme-stats.vercel.app/api/pin/?username=lastfm&repo=lastfm-desktop&bg_color=00000000&hide_border=true" alt="repo" align="left"/> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=clementine-player&repo=Clementine&bg_color=00000000&hide_border=true" alt="repo" align="left"/> |
+   |  |  |
   
 </div>
