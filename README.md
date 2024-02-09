@@ -81,7 +81,7 @@
    </table>
   
   ## 🎵</br>Music
-  <div align="left">
+
    <table>
     <tr>
      <th align="center"><code>></code> Spotify <code><</code></th>
@@ -90,8 +90,6 @@
      <td align="center"><img alt="spotify-profile-connection" href="https://open.spotify.com/user/zcomer4d" src="https://spotify-github-profile.vercel.app/api/view?uid=zcomer4d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></td>
     </tr>
    </table>
-  </div>
-  <div align="right">
    <table>
     <tr>
      <th align="center"><code>></code> Last.fm <code><</code></th>
@@ -100,7 +98,6 @@
      <td align="center"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=zcraftelite&theme=dark"/></td>
     </tr>
    </table>
-  </div>
   
 
   ## 📓</br>Repos I contribute to
