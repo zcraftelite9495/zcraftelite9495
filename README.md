@@ -87,7 +87,7 @@
      <th align="center"><code>></code> Spotify <code><</code></th>
     </tr>
     <tr>
-     <td align="center"><img src="https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg"/></td>
+     <td align="center"><img alt="spotify-profile-connection" href="https://open.spotify.com/user/zcomer4d" src="https://spotify-github-profile.vercel.app/api/view?uid=zcomer4d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></td>
     </tr>
    </table>
    <table>
