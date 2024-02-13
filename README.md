@@ -104,7 +104,7 @@
    
   <table>
     <tr>
-      <td align="left"><img href="https://github.com/zcraftelite9495/codingstuffs" src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=codingstuffs&bg_color=00000000&hide_border=true" alt="repo" align="left"/></td>
+      <td align="left"><a href="https://github.com/zcraftelite9495/codingstuffs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=codingstuffs&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
       <td align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Flow-Works&repo=FlowOS&bg_color=00000000&hide_border=true" alt="repo" align="left"/></td>
     </tr>
     <tr>
