@@ -10,7 +10,7 @@
   ![Main Username](https://img.shields.io/badge/main%20username%20-%20zcraftelite%20-%20ff69b4?style=flat&color=ff69b4) 
   ![Secondary Username](https://img.shields.io/badge/secondary%20username%20-%20zcraftelite294%20-%20ff69b4?style=flat&color=ff69b4) 
   ![Teriary Username](https://img.shields.io/badge/tertiary%20username%20-%20zcraftelite9495%20-%20ff69b4?style=flat&color=ff69b4) <br>
-  ![Twitch Status](https://img.shields.io/twitch/status/zcraftelite294?style=flat&color=ff69b4) 
+  ![Twitch Status](https://img.shields.io/twitch/status/zcraftelite294?style=flat&color=ff69b4&label=twitch%20status) 
   
   ## ⚧️</br>Name & Pronouns
 
