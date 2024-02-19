@@ -4,6 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=F72DD8&center=true&multiline=true&repeat=false&random=false&width=560&height=80&lines=Hello+World!;My+name+is+Z%2C+but+you+know+me+as+ZcraftElite;Welcome+to+my+profile!!!" alt="Typing SVG" /></a>
 
   ---
+
+  ![](https://komarev.com/ghpvc/?username=zcraftelite9495&color=ff69b4)
   
   ## ⚧️</br>Name & Pronouns
 
