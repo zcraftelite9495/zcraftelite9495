@@ -7,11 +7,11 @@
 
 
   ![GitHub Profile View Count](https://komarev.com/ghpvc/?username=zcraftelite9495&color=ff69b4) <br>
-  ![Heading: Social Usernames](https://img.shields.io/badge/Social%20Usernames%20-%20ff69b4?color=ff69b4) <br>
+  `-` ![Heading: Social Usernames](https://img.shields.io/badge/Social%20Usernames%20-%20ff69b4?color=ff69b4) `-` <br>
   ![Main Username](https://img.shields.io/badge/main%20username%20-%20zcraftelite%20-%20ff69b4?style=flat&logo=similarweb&logoColor=white&color=ff69b4) 
   ![Secondary Username](https://img.shields.io/badge/secondary%20username%20-%20zcraftelite294%20-%20ff69b4?style=flat&logo=similarweb&logoColor=white&color=ff69b4) 
   ![Teriary Username](https://img.shields.io/badge/tertiary%20username%20-%20zcraftelite9495%20-%20ff69b4?style=flat&logo=similarweb&logoColor=white&color=ff69b4) <br>
-  ![Heading: Social Media](https://img.shields.io/badge/Social%20Media%20-%20ff69b4?color=ff69b4) <br>
+  `-` ![Heading: Social Media](https://img.shields.io/badge/Social%20Media%20-%20ff69b4?color=ff69b4) `-` <br>
   ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmzYJthOjXSwrET0Wfkj8tA?style=flat&logo=youtube&logoColor=white&label=youtube%20subs&color=ff69b4)
   ![Twitch Status](https://img.shields.io/twitch/status/zcraftelite294?style=flat&logo=twitch&logoColor=white&color=ff69b4&label=twitch%20status) 
   
