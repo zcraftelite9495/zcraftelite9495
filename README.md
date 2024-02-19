@@ -101,8 +101,8 @@
 
   ## ⏰</br>Time I Spend
 
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+  <!--START_SECTION:timespent-->
+  <!--END_SECTION:timespent-->
   
 
   ## 📓</br>Repos I contribute to
