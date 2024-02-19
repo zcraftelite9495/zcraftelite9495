@@ -5,7 +5,7 @@
 
   ---
 
-  ![Preferred Username](https://img.shields.io/badge/main%20username%20-%20zcraftelite%20-%20ff69b4?style=flat&color=ff69b4) ![GitHub Profile View Count](https://komarev.com/ghpvc/?username=zcraftelite9495&color=ff69b4) ![Twitch Status](https://img.shields.io/twitch/status/zcraftelite294?style=flat&color=ff69b4) 
+  ![Main Username](https://img.shields.io/badge/main%20username%20-%20zcraftelite%20-%20ff69b4?style=flat&color=ff69b4) ![Secondary Username](https://img.shields.io/badge/secondary%20username%20-%20zcraftelite294%20-%20ff69b4?style=flat&color=ff69b4) ![Static Badge](https://img.shields.io/badge/tertiary%20username%20-%20zcraftelite9495%20-%20ff69b4?style=flat&color=ff69b4) ![GitHub Profile View Count](https://komarev.com/ghpvc/?username=zcraftelite9495&color=ff69b4) ![Twitch Status](https://img.shields.io/twitch/status/zcraftelite294?style=flat&color=ff69b4) 
   
   ## ⚧️</br>Name & Pronouns
 
