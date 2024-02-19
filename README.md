@@ -149,9 +149,5 @@ Sublime Text             1 min               ██████░░░░░�
       <td align="left"><a href="https://github.com/zcraftelite9495/Z-NET-Auth-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=Z-NET-Auth-System&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
     </tr>
   </table>
-
-   |  |  |
-   |---|---|
-   |  |  |
   
 </div>
