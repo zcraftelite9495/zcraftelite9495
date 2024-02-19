@@ -102,7 +102,6 @@
   ## ⏰</br>Time I Spend
 
   <!--START_SECTION:timespent-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
 
 **I'm an Early 🐤** 
 
