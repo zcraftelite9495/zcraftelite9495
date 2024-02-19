@@ -5,7 +5,7 @@
 
   ---
 
-  ![](https://komarev.com/ghpvc/?username=zcraftelite9495&color=ff69b4)
+  ![GitHub Profile View Count](https://komarev.com/ghpvc/?username=zcraftelite9495&color=ff69b4) ![GitHub top language](https://img.shields.io/github/languages/top/zcraftelite9495/codingstuffs)
   
   ## ⚧️</br>Name & Pronouns
 
