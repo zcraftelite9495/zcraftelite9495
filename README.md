@@ -98,6 +98,11 @@
      <td align="center"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=zcraftelite&theme=dark"/></td>
     </tr>
    </table>
+
+  ## ⏰</br>Time I Spend
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
   
 
   ## 📓</br>Repos I contribute to
