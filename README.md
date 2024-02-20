@@ -5,7 +5,6 @@
 
   ---
 
-
   ![GitHub Profile View Count](https://komarev.com/ghpvc/?username=zcraftelite9495&color=ff69b4) <br>
   ![Heading](https://img.shields.io/badge/--%20-%20grey)
   ![Heading: Social Usernames](https://img.shields.io/badge/Social%20Usernames%20-%20ff69b4?color=ff69b4)
@@ -101,15 +100,13 @@
      <th align="center"><code>></code> Spotify <code><</code></th>
     </tr>
     <tr>
-     <td align="center"><img alt="spotify-profile-connection" href="https://open.spotify.com/user/zcomer4d" src="https://spotify-github-profile.vercel.app/api/view?uid=zcomer4d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></td>
+     <td align="center"><img width="400" alt="spotify-profile-connection" href="https://open.spotify.com/user/zcomer4d" src="https://spotify-github-profile.vercel.app/api/view?uid=zcomer4d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></td>
     </tr>
-   </table>
-   <table>
     <tr>
      <th align="center"><code>></code> Last.fm <code><</code></th>
     </tr>
     <tr>
-     <td align="center"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=zcraftelite&theme=dark"/></td>
+     <td align="center"><img width="400" src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=zcraftelite&theme=dark"/></td>
     </tr>
    </table>
 
