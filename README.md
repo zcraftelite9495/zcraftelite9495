@@ -132,18 +132,17 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     12 mins             █████████████████████████   99.95 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/03/2024 18:37:01 UTC
+ Last Updated on 15/03/2024 18:36:54 UTC
 <!--END_SECTION:timespent-->
   
 
