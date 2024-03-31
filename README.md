@@ -114,7 +114,7 @@
   ## ⏰</br>Time I Spend
 
   <!--START_SECTION:timespent-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2023%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -143,7 +143,7 @@ Learning Javascript (codi1 hr 11 mins        ███████████�
 ```
 
 
- Last Updated on 30/03/2024 18:37:38 UTC
+ Last Updated on 31/03/2024 18:36:56 UTC
 <!--END_SECTION:timespent-->
   
 
