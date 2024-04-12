@@ -114,6 +114,8 @@
   ## ⏰</br>Time I Spend
 
   <!--START_SECTION:timespent-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2027%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -146,7 +148,7 @@ lutris                   3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/04/2024 18:37:09 UTC
+ Last Updated on 12/04/2024 18:37:05 UTC
 <!--END_SECTION:timespent-->
   
 
