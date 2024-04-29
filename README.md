@@ -114,7 +114,7 @@
   ## ⏰</br>Time I Spend
 
   <!--START_SECTION:timespent-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2048%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -146,7 +146,7 @@ Undertale_DiscordRichPres15 mins             ███░░░░░░░░�
 ```
 
 
- Last Updated on 28/04/2024 18:38:09 UTC
+ Last Updated on 29/04/2024 18:38:06 UTC
 <!--END_SECTION:timespent-->
   
 
