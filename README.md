@@ -132,17 +132,19 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      7 mins              ███████████░░░░░░░░░░░░░░   44.46 % 
+Markdown                 4 mins              ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+HTML                     4 mins              ███████░░░░░░░░░░░░░░░░░░   26.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+My Profile               16 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/06/2024 18:38:02 UTC
+ Last Updated on 09/06/2024 18:37:53 UTC
 <!--END_SECTION:timespent-->
   
 
