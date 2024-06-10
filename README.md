@@ -114,7 +114,7 @@
   ## ⏰</br>Time I Spend
 
   <!--START_SECTION:timespent-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2026%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -144,7 +144,7 @@ My Profile               16 mins             ███████████�
 ```
 
 
- Last Updated on 09/06/2024 18:37:53 UTC
+ Last Updated on 10/06/2024 18:39:39 UTC
 <!--END_SECTION:timespent-->
   
 
