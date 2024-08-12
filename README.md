@@ -114,7 +114,7 @@
   ## ⏰</br>Time I Spend
 
   <!--START_SECTION:timespent-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2038%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -142,7 +142,7 @@ zcome                    11 mins             ███████████�
 ```
 
 
- Last Updated on 11/08/2024 18:41:18 UTC
+ Last Updated on 12/08/2024 18:42:55 UTC
 <!--END_SECTION:timespent-->
   
 
