@@ -61,6 +61,7 @@
      <td align="center">
       <span>VBScript</span></br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/></br>
       <span>JavaScript</span></br><img src="https://skillicons.dev/icons?i=js" height="40"/></br>
+      <span>C</span></br><img src="https://skillicons.dev/icons?i=c" height="40"/></br>
      </td>
      <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" align="center"/>
