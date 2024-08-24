@@ -102,7 +102,7 @@
      <th align="center"><code>></code> Spotify <code><</code></th>
     </tr>
     <tr>
-     <td align="center"><img width="400" alt="spotify-profile-connection" href="https://open.spotify.com/user/zcomer4d" src="https://spotify-github-profile.vercel.app/api/view?uid=zcomer4d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></td>
+     <td align="center"><img width="400" alt="spotify-profile-connection" href="https://open.spotify.com/user/zcomer4d" src="https://spotify-github-profile.kittinanx.com/api/view?uid=zcomer4d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></td>
     </tr>
     <tr>
      <th align="center"><code>></code> Last.fm <code><</code></th>
