@@ -1,4 +1,4 @@
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F72DD8&random=false&width=560&height=30&lines=.%2Fwelcome-to-my-profile.sh;.%2Fhello-there.sh;.%2Fowo.sh" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F72DD8&random=false&width=560&height=30&lines=.%2Fwelcome-to-my-profile.sh;.%2Fhello-there.sh;.%2Fowo.sh;.%2Fcutie.sh" alt="Typing SVG" /></a>
 <div align="center">
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=F72DD8&center=true&multiline=true&repeat=false&random=false&width=560&height=80&lines=Hello+World!;My+name+is+Z%2C+but+you+know+me+as+ZcraftElite;Welcome+to+my+profile!!!" alt="Typing SVG" /></a>
@@ -91,6 +91,43 @@
      <td align="center">
       <span>Repl.it</span></br><img src="https://skillicons.dev/icons?i=replit" height="40"/></br>
       <span>Gitlab</span></br><img src="https://skillicons.dev/icons?i=gitlab" height="40"/></br>
+     </td>
+    </tr>
+   </table>
+
+   <table>
+    <tr>
+     <th colspan="5"><code>></code> Operating Systems <code><</code></th>
+    </tr>
+    <tr>
+     <td align="center">
+      <span>MS-DOS</span></br><img src="./Icons/msdos.png" height="40"/></br>
+     </td>
+     <td align="center">
+      <span>Windows 11</span></br><img src="./Icons/windows11.png" height="40"/></br>
+     </td>
+     <td align="center">
+      <span>Windows 10</span></br><img src="./Icons/windows10.png" height="40"/></br>
+     </td>
+     <td align="center">
+      <span>Windows XP</span></br><img src="./Icons/windowsxp.png" height="40"/></br>
+     </td>
+     <td align="center">
+      <span>Ubuntu</span></br><img src="./Icons/ubuntu.png" height="40"/></br>
+     </td>
+    </tr>
+    <tr>
+     <td align="center">
+      <span>Linux Mint</span></br><img src="./Icons/linux-mint.png" height="40"/></br>
+     </td>
+    <td align="center">
+      <span>Android</span></br><img src="./Icons/android.png" height="40"/></br>
+     </td>
+     <td align="center">
+      <span>3DS Family</span></br><img src="./Icons/3ds.png" height="40"/></br>
+     </td>
+     <td align="center">
+      <span>TI-83/84</span></br><img src="./Icons/ti8384.png" height="40"/></br>
      </td>
     </tr>
    </table>
