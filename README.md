@@ -152,7 +152,7 @@
   ## ⏰</br>Time I Spend
 
   <!--START_SECTION:timespent-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2032%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -183,7 +183,7 @@ school-completion-tracker0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/09/2024 18:44:20 UTC
+ Last Updated on 27/09/2024 18:45:03 UTC
 <!--END_SECTION:timespent-->
   
 
