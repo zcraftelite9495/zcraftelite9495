@@ -170,18 +170,17 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               4 mins              ████████████████░░░░░░░░░   62.88 % 
-TypeScript               2 mins              █████████░░░░░░░░░░░░░░░░   37.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Vencord                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/10/2024 18:46:24 UTC
+ Last Updated on 03/10/2024 18:45:08 UTC
 <!--END_SECTION:timespent-->
   
 
