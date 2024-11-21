@@ -170,20 +170,17 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 24 mins        ██████████████░░░░░░░░░░░   56.48 % 
-HTML                     43 mins             ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-CSS                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             2 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GameSessionManager       2 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/11/2024 18:47:01 UTC
+ Last Updated on 21/11/2024 18:47:11 UTC
 <!--END_SECTION:timespent-->
   
 
