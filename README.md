@@ -150,14 +150,8 @@
    </table>
 
   ## ⏰</br>Time I Spend
-  <table>
-   <tr>
-    <img src="https://wakatime.com/share/@018db32b-732a-4704-b635-68d311538b3f/0bdfdde7-4934-44ed-b1d5-4f097e755efe.svg"/>
-   </tr>
-  </table>
 
   <!--START_SECTION:timespent-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2042%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -195,6 +189,12 @@ PystrayExperimentation   9 mins              █░░░░░░░░░░�
 
  Last Updated on 24/11/2024 18:43:54 UTC
 <!--END_SECTION:timespent-->
+
+  <table>
+   <tr>
+    <img src="https://wakatime.com/share/@018db32b-732a-4704-b635-68d311538b3f/0bdfdde7-4934-44ed-b1d5-4f097e755efe.svg"/>
+   </tr>
+  </table>
   
 
   ## 📓</br>Repos I contribute to
