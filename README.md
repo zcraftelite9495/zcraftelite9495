@@ -34,7 +34,7 @@
      <code>👧</code> Transfem </br>
      <code>🐶</code> Professional skull-dog protogen </br>
      <code>🏫</code> Always been known as the hacker kid at school </br>
-     <code>❤️</code> Taken since 09/12/23 </br>
+     <code>❤️</code> Singe, ready to pringle </br>
      <code>📺</code> Giant fan of Helluva Boss & Hazbin hotel </br>
      <code>🖥️</code> Loves to code random useful utilities and random things </br>
      <code>🗨️</code> Talks constantly on Discord (when I don't have school) </br>
