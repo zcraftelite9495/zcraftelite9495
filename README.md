@@ -198,15 +198,15 @@ Unknown Project          4 mins              ░░░░░░░░░░░�
   <table>
     <tr>
       <td align="left"><a href="https://github.com/zcraftelite9495/codingstuffs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=codingstuffs&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
-      <td align="left"><a href="https://github.com/Flow-Works/FlowOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Flow-Works&repo=FlowOS&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
+      <td align="left"><a href="https://github.com/zcraftelite9495/zcraftelite9495"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=zcraftelite9495&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/lastfm/lastfm-desktop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lastfm&repo=lastfm-desktop&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
       <td align="left"><a href="https://github.com/clementine-player/Clementine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=clementine-player&repo=Clementine&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
     </tr>
     <tr>
-      <td align="left"><a href="https://github.com/zcraftelite9495/zcraftelite9495"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=zcraftelite9495&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
-      <td align="left"><a href="https://github.com/zcraftelite9495/Z-NET-Auth-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=Z-NET-Auth-System&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
+      <td align="left"><a href="https://github.com/zcraftelite9495/gamesessionmanager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=gamesessionmanager&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
+      <td align="left"><a href="https://github.com/zcraftelite9495/lemmekissdanpc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=lemmekissdanpc&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
     </tr>
   </table>
   
