@@ -195,6 +195,12 @@ Unknown Project          4 mins              ░░░░░░░░░░░�
     <img src="https://wakatime.com/share/@018db32b-732a-4704-b635-68d311538b3f/0bdfdde7-4934-44ed-b1d5-4f097e755efe.svg"/>
    </tr>
   </table>
+
+  <table>
+   <tr>
+    <img src="https://wakatime.com/share/@018db32b-732a-4704-b635-68d311538b3f/5722bcaf-a2a6-4b2e-9075-4ec01f3b8e42.svg"/>
+   </tr>
+  </table>
   
 
   ## 📓</br>Repos I contribute to
