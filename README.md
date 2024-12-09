@@ -186,8 +186,7 @@ LemmeKissDaNPC           6 hrs 15 mins       ███████░░░░�
 Unknown Project          1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 ```
 
-
- Last Updated on 08/12/2024 18:45:03 UTC
+Last Updated on 08/12/2024 18:45:03 UTC
 <!--END_SECTION:timespent-->
 
   <table>
