@@ -170,18 +170,17 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   0 secs              ████████████████████████░   95.66 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GameSessionManager       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2024 18:43:13 UTC
+ Last Updated on 01/01/2025 18:43:31 UTC
 <!--END_SECTION:timespent-->
 
   <table>
