@@ -152,7 +152,7 @@
   ## ⏰</br>Time I Spend
 
   <!--START_SECTION:timespent-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%202%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -170,17 +170,17 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-CSS                      5 mins              █████████████████████████   100.00 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Sublime Text             5 mins              █████████████████████████   100.00 % 
+Sublime Text             2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 mins              █████████████████████████   100.00 % 
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/02/2025 18:43:21 UTC
+ Last Updated on 04/02/2025 18:44:20 UTC
 <!--END_SECTION:timespent-->
 
   <table>
