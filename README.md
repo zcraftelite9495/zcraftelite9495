@@ -5,24 +5,28 @@
 
   ---
 
-  ![GitHub Profile View Count](https://komarev.com/ghpvc/?username=zcraftelite9495&color=ff69b4) <br>
-  ![Heading](https://img.shields.io/badge/--%20-%20grey)
-  ![Heading: Social Usernames](https://img.shields.io/badge/Social%20Usernames%20-%20ff69b4?color=ff69b4)
-  ![Heading](https://img.shields.io/badge/--%20-%20grey) <br>
-  ![Main Username](https://img.shields.io/badge/main%20username%20-%20zcraftelite%20-%20ff69b4?style=flat&logo=similarweb&logoColor=white&color=ff69b4) 
-  ![Secondary Username](https://img.shields.io/badge/secondary%20username%20-%20zcraftelite294%20-%20ff69b4?style=flat&logo=similarweb&logoColor=white&color=ff69b4) 
-  ![Teriary Username](https://img.shields.io/badge/tertiary%20username%20-%20zcraftelite9495%20-%20ff69b4?style=flat&logo=similarweb&logoColor=white&color=ff69b4) <br>
-  ![Heading](https://img.shields.io/badge/--%20-%20grey)
-  ![Heading: Social Media](https://img.shields.io/badge/Social%20Media%20-%20ff69b4?color=ff69b4)
-  ![Heading](https://img.shields.io/badge/--%20-%20grey) <br>
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmzYJthOjXSwrET0Wfkj8tA?style=flat&logo=youtube&logoColor=white&label=youtube%20subs&color=ff69b4)
-  ![Twitch Status](https://img.shields.io/twitch/status/zcraftelite294?style=flat&logo=twitch&logoColor=white&color=ff69b4&label=twitch%20status) 
+<img src="https://komarev.com/ghpvc/?username=zcraftelite9495&color=ff69b4" alt="GitHub Profile View Count"/>
+<br>
+<img src="https://img.shields.io/badge/--%20-%20grey" alt="Heading"/>
+<img src="https://img.shields.io/badge/Social%20Usernames%20-%20ff69b4?color=ff69b4" alt="Heading: Social Usernames"/>
+<img src="https://img.shields.io/badge/--%20-%20grey" alt="Heading"/>
+<br>
+<img src="https://img.shields.io/badge/main%20username%20-%20zcraftelite%20-%20ff69b4?style=flat&logo=similarweb&logoColor=white&color=ff69b4" alt="Main Username"/>
+<img src="https://img.shields.io/badge/secondary%20username%20-%20zcraftelite294%20-%20ff69b4?style=flat&logo=similarweb&logoColor=white&color=ff69b4" alt="Secondary Username"/>
+<img src="https://img.shields.io/badge/tertiary%20username%20-%20zcraftelite9495%20-%20ff69b4?style=flat&logo=similarweb&logoColor=white&color=ff69b4" alt="Tertiary Username"/>
+<br>
+<img src="https://img.shields.io/badge/--%20-%20grey" alt="Heading"/>
+<img src="https://img.shields.io/badge/Social%20Media%20-%20ff69b4?color=ff69b4" alt="Heading: Social Media"/>
+<img src="https://img.shields.io/badge/--%20-%20grey" alt="Heading"/>
+<br>
+<img src="https://img.shields.io/youtube/channel/subscribers/UCmzYJthOjXSwrET0Wfkj8tA?style=flat&logo=youtube&logoColor=white&label=youtube%20subs&color=ff69b4" alt="YouTube Channel Subscribers"/>
+<img src="https://img.shields.io/twitch/status/zcraftelite?style=flat&logo=twitch&logoColor=white&color=ff69b4&label=twitch%20status" alt="Twitch Status"/>
   
   ## ⚧️</br>Name & Pronouns
 
   **Zena "Z" Comerford**</br>
   **ZcraftElite**</br>
-  **She/Her/Hers - Fur/Fur/Furs - They/Them/Theirs - Bean/Bean/Beans**</br>
+  **She/Her/Hers - They/Them/Theirs**</br>
   [**See more at my Pronouns Page**](https://en.pronouns.page/@zcraftelite)
   
 
@@ -31,13 +35,13 @@
   <table>
    <tr>
     <th align="left">
-     <code>👧</code> Transfem </br>
-     <code>🐶</code> Professional skull-dog protogen </br>
-     <code>🏫</code> Always been known as the hacker kid at school </br>
-     <code>❤️</code> Singe, ready to pringle </br>
-     <code>📺</code> Giant fan of Helluva Boss & Hazbin hotel </br>
-     <code>🖥️</code> Loves to code random useful utilities and random things </br>
-     <code>🗨️</code> Talks constantly on Discord (when I don't have school) </br>
+     <code>👧</code> Cute girl against the world </br>
+     <code>🐶</code> Professional wolf-protogen hybrid </br>
+     <code>❤️</code> Total sucker for any kind of attenton </br>
+     <code>📺</code> Obsessed with Crime Shows & Olivia Benson is my idol </br>
+     <code>🖥️</code> Loves to code random useful utilities and other random stuff </br>
+     <code>🗨️</code> Talks constantly on Discord (when I'm not in a lecture) </br>
+     <code>🎮</code> Loves video games, especially Minecraft, Fortnite & Rainbow 6 </br>
     </th>
    </tr>
   </table>
@@ -45,92 +49,97 @@
   
   ## 🖱️</br>Stuffs I use
   
-   <table border="0">
+<table border="0">
     <tr>
-     <th colspan="2"><code>></code> Langs <code><</code></th>
-     <th colspan="2"><code>></code> Language Charts <code><</code></th>
+        <th colspan="2"><code>></code> Languages I know <code><</code></th>
+        <th colspan="2"><code>></code> Languages on Github <code><</code></th>
     </tr>
     <tr>
-     <td align="center">
-      <span>Bash</span></br><img src="https://skillicons.dev/icons?i=bash" height="40"/></br>
-      <span>Batch</span></br><img src="https://skillicons.dev/icons?i=bash" height="40"/></br>
-      <span>Python</span></br><img src="https://skillicons.dev/icons?i=python" height="40"/></br>
-      <span>HTML 5</span></br><img src="https://skillicons.dev/icons?i=html" height="40"/></br>
-      <span>CSS 3</span></br><img src="https://skillicons.dev/icons?i=css" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>VBScript</span></br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/></br>
-      <span>JavaScript</span></br><img src="https://skillicons.dev/icons?i=js" height="40"/></br>
-      <span>C</span></br><img src="https://skillicons.dev/icons?i=c" height="40"/></br>
-     </td>
-     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" align="center"/>
-     </td>
+        <td align="center">
+            <span>Bash</span><br><img src="https://skillicons.dev/icons?i=bash" height="40"/><br>
+            <span>Batch</span><br><img src="https://skillicons.dev/icons?i=bash" height="40"/><br>
+            <span>Python</span><br><img src="https://skillicons.dev/icons?i=python" height="40"/><br>
+            <span>HTML 5</span><br><img src="https://skillicons.dev/icons?i=html" height="40"/><br>
+            <span>CSS 3</span><br><img src="https://skillicons.dev/icons?i=css" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>VBScript</span><br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/><br>
+            <span>JavaScript</span><br><img src="https://skillicons.dev/icons?i=js" height="40"/><br>
+            <span>C</span><br><img src="https://skillicons.dev/icons?i=c" height="40"/><br>
+            <span>Lua</span><br><img src="https://skillicons.dev/icons?i=lua" height="40"/><br>
+            <span>Java</span><br><img src="https://skillicons.dev/icons?i=java" height="40"/><br>
+        </td>
+        <td colspan="2">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcraftelite9495&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" align="center"/>
+        </td>
     </tr>
     <tr>
-     <th><code>></code> Editors <code><</code></th>
-     <th><code>></code> Socials <code><</code></th>
-     <th colspan="2"><code>></code> Platforms <code><</code></th>
+        <th><code>></code> Editors <code><</code></th>
+        <th><code>></code> Socials <code><</code></th>
+        <th colspan="2"><code>></code> Platforms <code><</code></th>
     </tr>
     <tr>
-     <td align="center">
-      <span>Visual Studio</span></br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/></br>
-      <span>VS Code</span></br><img src="https://skillicons.dev/icons?i=vscode" height="40"/></br>
-      <span>Sublime Text</span></br><img src="./owo.png" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>Github</span></br><img src="https://skillicons.dev/icons?i=github" height="40"/></br>
-      <span>Discord</span></br><img src="https://skillicons.dev/icons?i=discord" height="40"/></br>
-      <span>Twitter</span></br><img src="https://skillicons.dev/icons?i=twitter" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>Github Actions</span></br><img src="https://skillicons.dev/icons?i=githubactions" height="40"/></br>
-      <span>Github</span></br><img src="https://skillicons.dev/icons?i=github" height="40"/></br>
-      <span>Google Cloud</span></br><img src="https://skillicons.dev/icons?i=gcp" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>Repl.it</span></br><img src="https://skillicons.dev/icons?i=replit" height="40"/></br>
-      <span>Gitlab</span></br><img src="https://skillicons.dev/icons?i=gitlab" height="40"/></br>
-     </td>
+        <td align="center">
+            <span>Visual Studio</span><br><img src="https://skillicons.dev/icons?i=visualstudio" height="40"/><br>
+            <span>VS Code</span><br><img src="https://skillicons.dev/icons?i=vscode" height="40"/><br>
+            <span>Sublime Text</span><br><img src="./owo.png" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>Github</span><br><img src="https://skillicons.dev/icons?i=github" height="40"/><br>
+            <span>Discord</span><br><img src="https://skillicons.dev/icons?i=discord" height="40"/><br>
+            <span>Twitter</span><br><img src="https://skillicons.dev/icons?i=twitter" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>Github Actions</span><br><img src="https://skillicons.dev/icons?i=githubactions" height="40"/><br>
+            <span>Github</span><br><img src="https://skillicons.dev/icons?i=github" height="40"/><br>
+            <span>Google Cloud</span><br><img src="https://skillicons.dev/icons?i=gcp" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>Repl.it</span><br><img src="https://skillicons.dev/icons?i=replit" height="40"/><br>
+            <span>Gitlab</span><br><img src="https://skillicons.dev/icons?i=gitlab" height="40"/><br>
+        </td>
     </tr>
-   </table>
+</table>
 
-   <table>
+<table>
     <tr>
-     <th colspan="5"><code>></code> Operating Systems <code><</code></th>
+        <th colspan="5"><code>></code> Operating Systems <code><</code></th>
     </tr>
     <tr>
-     <td align="center">
-      <span>MS-DOS</span></br><img src="./Icons/msdos.png" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>Windows 11</span></br><img src="./Icons/windows11.png" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>Windows 10</span></br><img src="./Icons/windows10.png" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>Windows XP</span></br><img src="./Icons/windowsxp.png" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>Ubuntu</span></br><img src="./Icons/ubuntu.png" height="40"/></br>
-     </td>
+        <td align="center">
+            <span>MS-DOS</span><br><img src="./Icons/msdos.png" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>Windows 11</span><br><img src="./Icons/windows11.png" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>Windows 10</span><br><img src="./Icons/windows10.png" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>Windows XP</span><br><img src="./Icons/windowsxp.png" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>Ubuntu</span><br><img src="./Icons/ubuntu.png" height="40"/><br>
+        </td>
     </tr>
     <tr>
-     <td align="center">
-      <span>Linux Mint</span></br><img src="./Icons/linux-mint.png" height="40"/></br>
-     </td>
-    <td align="center">
-      <span>Android</span></br><img src="./Icons/android.png" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>3DS Family</span></br><img src="./Icons/3ds.png" height="40"/></br>
-     </td>
-     <td align="center">
-      <span>TI-83/84</span></br><img src="./Icons/ti8384.png" height="40"/></br>
-     </td>
+        <td align="center">
+            <span>Linux Mint</span><br><img src="./Icons/linux-mint.png" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>Android</span><br><img src="./Icons/android.png" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>3DS Family</span><br><img src="./Icons/3ds.png" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>TI-83/84</span><br><img src="./Icons/ti8384.png" height="40"/><br>
+        </td>
+        <td align="center">
+            <span>Arch Linux</span><br><img src="https://skillicons.dev/icons?i=arch" height="40"/><br>
+        </td>
     </tr>
-   </table>
+</table>
   
   ## 🎵</br>Music
 
@@ -151,46 +160,21 @@
 
   ## ⏰</br>Time I Spend
 
-  <!--START_SECTION:timespent-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2041%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                187 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-🌆 Daytime                300 commits         ███████████░░░░░░░░░░░░░░   43.80 % 
-🌃 Evening                183 commits         ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-```
+<img src="https://wakatime.com/share/@zcraftelite/d0d3e6a5-4f76-452b-b6a8-d1c5bab66fa4.svg">
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-HTML                     51 mins             ████████████████░░░░░░░░░   63.42 % 
-CSS                      27 mins             ████████░░░░░░░░░░░░░░░░░   33.37 % 
-PHP                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-
-🔥 Editors: 
-Sublime Text             1 hr 21 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Cibles SMP Website       1 hr 18 mins        ████████████████████████░   96.79 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-```
-
-
- Last Updated on 18/02/2025 18:45:34 UTC
-<!--END_SECTION:timespent-->
+### Languages
 
   <table>
    <tr>
     <img src="https://wakatime.com/share/@018db32b-732a-4704-b635-68d311538b3f/e1be9788-52d2-4034-b284-27f0fe7772da.svg"/>
    </tr>
   </table>
+
+### Editors & IDEs
 
   <table>
    <tr>
@@ -199,20 +183,15 @@ Unknown Project          2 mins              █░░░░░░░░░░�
   </table>
   
 
-  ## 📓</br>Repos I contribute to
+  ## 📓</br>My Best Repositories
    
   <table>
     <tr>
       <td align="left"><a href="https://github.com/zcraftelite9495/codingstuffs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=codingstuffs&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
-      <td align="left"><a href="https://github.com/zcraftelite9495/zcraftelite9495"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=zcraftelite9495&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/lastfm/lastfm-desktop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lastfm&repo=lastfm-desktop&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
-      <td align="left"><a href="https://github.com/clementine-player/Clementine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=clementine-player&repo=Clementine&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
-    </tr>
-    <tr>
       <td align="left"><a href="https://github.com/zcraftelite9495/gamesessionmanager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=gamesessionmanager&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
-      <td align="left"><a href="https://github.com/zcraftelite9495/lemmekissdanpc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=lemmekissdanpc&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
+    </tr>
+    <tr>
+      <td colspan=2 align="left"><a href="https://github.com/zcraftelite9495/lemmekissdanpc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zcraftelite9495&repo=lemmekissdanpc&bg_color=00000000&hide_border=true" alt="repo" align="left"/></a></td>
     </tr>
   </table>
   
