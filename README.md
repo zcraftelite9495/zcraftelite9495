@@ -173,8 +173,6 @@
 Z's MC Model             2 hrs 38 mins       █████████████████████░░░░   85.37 % 
 First Standalone Java App27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 ```
-
-
 <!--END_SECTION:projectStats-->
 
 

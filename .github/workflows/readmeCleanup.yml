@@ -1,0 +1,33 @@
+name: Clean WakaTime Output
+
+on:
+  workflow_run:
+    workflows: ["WakaTime Project Stats"]
+    types:
+      - completed
+
+  workflow_dispatch:
+
+jobs:
+  clean-project-stats:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Clean projectStats section
+        run: |
+          sed -i '/<!--START_SECTION:projectStats-->/,<!--END_SECTION:projectStats-->/ {
+            /📊 \*\*This Week I Spent My Time On\*\*/d
+            /🐱‍💻 Projects:/d
+          }' README.md
+
+      - name: Commit and push cleaned README
+        run: |
+          git config --global user.name "Z's Cleanup Bot"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Cleanup projectStats section"
+          git push
