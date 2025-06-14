@@ -31,7 +31,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📅 "If you plan your week, always leave wiggle room to have fun."
+🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
 <!--END_SECTION:zDailyTip-->
   
 
