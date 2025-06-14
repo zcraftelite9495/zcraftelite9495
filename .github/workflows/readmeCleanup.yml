@@ -19,15 +19,15 @@ jobs:
 
       - name: Clean projectStats section
         run: |
-          sed -i '/<!--START_SECTION:projectStats-->/,<!--END_SECTION:projectStats-->/ {
+            sed -i '/<!--START_SECTION:projectStats-->/, /<!--END_SECTION:projectStats-->/ {
             /📊 \*\*This Week I Spent My Time On\*\*/d
             /🐱‍💻 Projects:/d
-          }' README.md
+            }' README.md
 
       - name: Commit and push cleaned README
         run: |
           git config --global user.name "Z's Cleanup Bot"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Cleanup projectStats section"
+          git commit -m "Version 2.0 - Auto Commit - Clean Readme File"
           git push
