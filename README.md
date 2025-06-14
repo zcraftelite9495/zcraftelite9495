@@ -28,6 +28,11 @@
   **ZcraftElite**</br>
   **She/Her/Hers - They/Them/Theirs**</br>
   [**See more at my Pronouns Page**](https://en.pronouns.page/@zcraftelite)
+
+  ## 💡</br>Daily Tip
+  <!--START_SECTION:zDailyTip-->
+
+  <!--END_SECTION:zDailyTip-->
   
 
   ## 🐕</br>About Me

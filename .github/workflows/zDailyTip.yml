@@ -1,0 +1,26 @@
+name: Update Daily Tip
+
+on:
+  workflow_dispatch:     # Allows manual run from GitHub Actions UI
+  schedule:
+    - cron: '0 12 * * *' # Runs daily at 12:00 UTC
+
+jobs:
+  update-daily-tip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Run Tip Updater Script
+        run: |
+          chmod +x .github/scripts/dailyTip.sh
+          .github/scripts/dailyTip.sh
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Version 2.0 - Auto Commit - Update Daily Tip"
+          git push
