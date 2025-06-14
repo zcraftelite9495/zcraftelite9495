@@ -1,4 +1,4 @@
-name: Clean WakaTime Output
+name: Clean README File
 
 on:
   workflow_run:
