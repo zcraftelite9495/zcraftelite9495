@@ -24,6 +24,8 @@
   
   ## ⚧️</br>Name & Pronouns
 
+  <img src="New Fursona Profile Picture (Circular).png" height=100>
+
   **Zena "Z" Comerford**</br>
   **ZcraftElite**</br>
   **She/Her/Hers - They/Them/Theirs**</br>
