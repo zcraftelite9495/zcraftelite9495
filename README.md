@@ -173,10 +173,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z's MC Model             2 hrs 38 mins       █████████████████████░░░░   85.37 % 
 First Standalone Java App27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 ```
