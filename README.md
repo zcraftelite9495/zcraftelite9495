@@ -173,10 +173,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z's Github Profile       2 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
 Z's MC Model             2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
 Z's Fursona Website      2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
