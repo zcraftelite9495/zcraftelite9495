@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📅 "If you plan your week, always leave wiggle room to have fun."
+🗺️ "In Minecraft, Worldedit is powerful! Don’t forget backups before big changes :P"
 <!--END_SECTION:zDailyTip-->
   
 
