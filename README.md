@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
+🛁 "Treat yourself to a relaxing bath or shower, self-care matters."
 <!--END_SECTION:zDailyTip-->
   
 
