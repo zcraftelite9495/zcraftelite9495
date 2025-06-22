@@ -173,10 +173,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z-NET Server             19 hrs 30 mins      ████████████████░░░░░░░░░   63.12 % 
 Z's Fursona Website      6 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 Z's Github Profile       2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
