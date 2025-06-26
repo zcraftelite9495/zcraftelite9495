@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐱 "Talk to your pets like they understand, they probably do. :3"
+💻 "Always backup your configurations, okie? Future you will thank you :3"
 <!--END_SECTION:zDailyTip-->
   
 
