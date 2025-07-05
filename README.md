@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
+🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
 <!--END_SECTION:zDailyTip-->
   
 
