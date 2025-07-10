@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🖤 "You’re not too much! The world’s just not used to your kind of awesome :P"
+🐱 "Talk to your pets like they understand, they probably do. :3"
 <!--END_SECTION:zDailyTip-->
   
 
