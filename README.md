@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
+🦄 "Be yourself; everyone else is already taken (and probably boring X3)."
 <!--END_SECTION:zDailyTip-->
   
 
