@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🦄 "Be yourself; everyone else is already taken (and probably boring X3)."
+🧷 "Your identity is valid! Code like it, live like it, and shine bright >:3"
 <!--END_SECTION:zDailyTip-->
   
 
