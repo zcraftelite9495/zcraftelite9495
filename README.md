@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🖤 "You’re not too much! The world’s just not used to your kind of awesome :P"
+💞 "Love your friends, support your chosen family, they matter most."
 <!--END_SECTION:zDailyTip-->
   
 
