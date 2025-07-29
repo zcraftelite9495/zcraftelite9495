@@ -173,10 +173,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Bored3DS: The Game       3 hrs 46 mins       ██████████████░░░░░░░░░░░   57.18 % 
 ImposterMenu             1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
 Z-NET Client for Among Us46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
