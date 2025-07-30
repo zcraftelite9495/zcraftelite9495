@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🖤 "You’re not too much! The world’s just not used to your kind of awesome :P"
+💻 "Always backup your configurations, okie? Future you will thank you :3"
 <!--END_SECTION:zDailyTip-->
   
 
