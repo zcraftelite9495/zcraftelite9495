@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎵 "Don't be afraid to jam out. Wake up your dang neighbors! >:3"
+❤️ "You’re never alone, okay? There will always be people here for you, hugs! ^-^"
 <!--END_SECTION:zDailyTip-->
   
 
