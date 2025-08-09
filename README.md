@@ -173,10 +173,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Bored3DS                 7 hrs 31 mins       █████████████████████████   99.27 % 
 Z's Fursona Website      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
