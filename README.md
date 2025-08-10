@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎵 "Don't be afraid to jam out. Wake up your dang neighbors! >:3"
+🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
 <!--END_SECTION:zDailyTip-->
   
 
