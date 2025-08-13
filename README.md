@@ -173,10 +173,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Unknown Project          10 mins             ███████████████████░░░░░░   75.63 % 
 Z's Fursona Website      3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
 ```
