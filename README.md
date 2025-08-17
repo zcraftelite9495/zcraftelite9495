@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📚 "Try to learn something new every week, even if it’s small!"
+🔄 "Version pin your mods! Updates break more than just code! X3"
 <!--END_SECTION:zDailyTip-->
   
 
