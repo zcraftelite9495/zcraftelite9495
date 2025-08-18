@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🔄 "Version pin your mods! Updates break more than just code! X3"
+🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
 <!--END_SECTION:zDailyTip-->
   
 
