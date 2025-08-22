@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐾 "Give your pets extra cuddles and belly rubs, they’ll thank you."
+🔁 "Before optimizing, ask: ‘Is it even needed more than once?’"
 <!--END_SECTION:zDailyTip-->
   
 
