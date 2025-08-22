@@ -173,10 +173,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Vencord Questify         14 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
 VencordStuffs            13 mins             █████████░░░░░░░░░░░░░░░░   34.39 % 
 My First Vencord Plugin  7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
