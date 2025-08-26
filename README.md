@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🖤 "You’re not too much! The world’s just not used to your kind of awesome :P"
+🧷 "Your identity is valid! Code like it, live like it, and shine bright >:3"
 <!--END_SECTION:zDailyTip-->
   
 
