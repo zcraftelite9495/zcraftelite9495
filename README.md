@@ -173,10 +173,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z's World Website        23 hrs 17 mins      ████████████████████████░   96.18 % 
 My Domain Homepage       30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 TransHorizons Studio Webs24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
