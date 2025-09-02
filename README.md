@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🖤 "You’re not too much! The world’s just not used to your kind of awesome :P"
+🗺️ "In Minecraft, Worldedit is powerful! Don’t forget backups before big changes :P"
 <!--END_SECTION:zDailyTip-->
   
 
