@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🗺️ "In Minecraft, Worldedit is powerful! Don’t forget backups before big changes :P"
+💞 "Love your friends, support your chosen family, they matter most."
 <!--END_SECTION:zDailyTip-->
   
 
