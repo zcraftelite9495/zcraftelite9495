@@ -173,10 +173,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 My Domain Homepage       30 mins             ██████████████░░░░░░░░░░░   55.00 % 
 TransHorizons Studio Webs24 mins             ███████████░░░░░░░░░░░░░░   44.80 % 
 ZcraftEliteNetHomepage   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
