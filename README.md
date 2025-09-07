@@ -173,9 +173,14 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-No Activity Tracked This Week
+🐱‍💻 Projects: 
+TransHorizons Studio - Ha2 hrs 58 mins       ███████████████████████░░   90.60 % 
+Unknown Project          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Hazzard                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+VencordStuffs            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 
