@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🍪 "Bake or buy your favorite snack, you deserve it."
+🔄 "Version pin your mods! Updates break more than just code! X3"
 <!--END_SECTION:zDailyTip-->
   
 
