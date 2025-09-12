@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
+🖤 "You’re not too much! The world’s just not used to your kind of awesome :P"
 <!--END_SECTION:zDailyTip-->
   
 
