@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
+💞 "Love your friends, support your chosen family, they matter most."
 <!--END_SECTION:zDailyTip-->
   
 
