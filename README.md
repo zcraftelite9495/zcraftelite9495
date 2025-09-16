@@ -40,17 +40,25 @@
   ## 🐕</br>About Me
 
   <table>
-   <tr>
-    <th align="left">
-     <code>👧</code> Cute girl against the world </br>
-     <code>🐶</code> Professional wolf-protogen hybrid </br>
-     <code>❤️</code> Total sucker for any kind of attenton </br>
-     <code>📺</code> Obsessed with Crime Shows & Olivia Benson is my idol </br>
-     <code>🖥️</code> Loves to code random useful utilities and other random stuff </br>
-     <code>🗨️</code> Talks constantly on Discord (when I'm not in a lecture) </br>
-     <code>🎮</code> Loves video games, especially Minecraft, Fortnite & Rainbow 6 </br>
-    </th>
-   </tr>
+    <tr>
+        <th align="left">
+            <code>👧</code> Cute girl against the world </br>
+            <code>🐶</code> Professional wolf-protogen hybrid </br>
+            <code>❤️</code> Total sucker for any kind of attenton </br>
+            <code>📺</code> Obsessed with Crime Shows & Olivia Benson is my idol </br>
+            <code>🖥️</code> Loves to code random useful utilities and other random stuff </br>
+            <code>🗨️</code> Talks constantly on Discord (when I'm not in a lecture) </br>
+            <code>🎮</code> Loves video games, especially Minecraft, Fortnite & Rainbow 6 </br>
+            <code>🖊️</code> Aspiring biochemist & quantum physics nerd </br>
+            <code>💻</code> Linux fangirl, probably fixing something I broke on my system </br>
+            <code>🎧</code> Vibing to music 24/7 (bonus points if it’s slutcore or game OSTs) </br>
+            <code>🌙</code> Night owl who does her best thinking at 3 AM </br>
+            <code>🫂</code> Super caring friend who loves everyone </br>
+            <code>🖌️</code> Digital artist & tablet gremlin </br>
+            <code>📝</code> Forever journaling random thoughts and lore ideas </br>
+            <code>😈</code> Slightly chaotic, but in an endearing way </br>
+        </th>
+    </tr>
   </table>
 
   
@@ -187,7 +195,7 @@ Unknown Project          5 mins              ███████████�
 
   <table>
    <tr>
-    <img src="https://wakatime.com/share/@018db32b-732a-4704-b635-68d311538b3f/e1be9788-52d2-4034-b284-27f0fe7772da.svg"/>
+    <img width="700" height="900" src="https://wakatime.com/share/@018db32b-732a-4704-b635-68d311538b3f/e1be9788-52d2-4034-b284-27f0fe7772da.svg"/>
    </tr>
   </table>
 
@@ -195,7 +203,7 @@ Unknown Project          5 mins              ███████████�
 
   <table>
    <tr>
-    <img src="https://wakatime.com/share/@018db32b-732a-4704-b635-68d311538b3f/5722bcaf-a2a6-4b2e-9075-4ec01f3b8e42.svg"/>
+    <img width="700" height="700" src="https://wakatime.com/share/@018db32b-732a-4704-b635-68d311538b3f/5722bcaf-a2a6-4b2e-9075-4ec01f3b8e42.svg"/>
    </tr>
   </table>
   
