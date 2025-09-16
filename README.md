@@ -28,7 +28,7 @@
 
   **Zena "Z" Comerford**</br>
   **ZcraftElite**</br>
-  **She/Her/Hers - They/Them/Theirs**</br>
+  **She/Her - They/Them**</br>
   [**See more at my Pronouns Page**](https://en.pronouns.page/@zcraftelite)
 
   ## 💡</br>Daily Tip
