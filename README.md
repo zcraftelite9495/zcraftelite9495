@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐱 "Talk to your pets like they understand, they probably do. :3"
+🐾 "Give your pets extra cuddles and belly rubs, they’ll thank you."
 <!--END_SECTION:zDailyTip-->
   
 
