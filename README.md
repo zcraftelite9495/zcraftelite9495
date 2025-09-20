@@ -182,15 +182,6 @@
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
 
-```text
-ZcraftElite Site Homepage1 hr 46 mins        █████████████████░░░░░░░░   69.88 % 
-Z's Github Profile       20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Z's World Website        10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-VencordStuffs            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-```
-
-
 <!--END_SECTION:projectStats-->
 
 
