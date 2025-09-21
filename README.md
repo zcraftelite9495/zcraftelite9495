@@ -181,10 +181,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 ZcraftElite Site Homepage1 hr 46 mins        ███████████████░░░░░░░░░░   59.60 % 
 Unknown Project          32 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
 Z's Github Profile       20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
