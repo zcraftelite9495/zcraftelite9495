@@ -181,10 +181,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 ZcraftElite Site Homepage1 hr 46 mins        ███████████░░░░░░░░░░░░░░   42.76 % 
 Learning Unity           40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
 Unknown Project          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
