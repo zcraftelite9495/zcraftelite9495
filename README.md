@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🔧 "If you play modded Minecraft, use Figura, it's very customizable!"
+💕 "You’re not stupid, silly! Just misunderstood, and that’s okay :3"
 <!--END_SECTION:zDailyTip-->
   
 
