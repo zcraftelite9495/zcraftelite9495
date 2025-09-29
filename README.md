@@ -181,10 +181,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 ZcraftElite Site Homepage6 hrs 11 mins       ███████████████░░░░░░░░░░   58.86 % 
 OpenHome                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
 LearningUnity            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
