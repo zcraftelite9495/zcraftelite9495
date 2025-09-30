@@ -181,10 +181,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 ZcraftElite Site Homepage7 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.27 % 
 OpenHome                 2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 Vencord Plugin - MediaSta2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
