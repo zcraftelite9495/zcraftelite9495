@@ -181,10 +181,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Vencord Plugin - MediaSta2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.97 % 
 ZcraftElite Site Homepage1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
 Vencord-MediaStatus      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
