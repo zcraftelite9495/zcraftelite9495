@@ -182,15 +182,6 @@
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
 
-```text
-Vencord Plugin - MediaSta2 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.34 % 
-ZcraftElite Site Homepage54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Vencord-MediaStatus      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Unknown Project          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Vencord                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-```
-
-
 <!--END_SECTION:projectStats-->
 
 
