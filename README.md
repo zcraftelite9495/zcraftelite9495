@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🔧 "If you play modded Minecraft, use Figura, it's very customizable!"
+🍪 "Bake or buy your favorite snack, you deserve it."
 <!--END_SECTION:zDailyTip-->
   
 
