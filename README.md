@@ -181,10 +181,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z's World Website        5 hrs 29 mins       █████████████░░░░░░░░░░░░   52.65 % 
 Vencord Plugin - MediaSta2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
 ZcraftElite Site Homepage1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
