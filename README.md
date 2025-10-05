@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🍪 "Bake or buy your favorite snack, you deserve it."
+📅 "If you plan your week, always leave wiggle room to have fun."
 <!--END_SECTION:zDailyTip-->
   
 
