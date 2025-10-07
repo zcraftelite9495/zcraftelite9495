@@ -181,10 +181,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z's World Website        5 hrs 29 mins       ███████████████████████░░   90.94 % 
 VencordStuffs            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ZcraftElite Site Homepage5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
