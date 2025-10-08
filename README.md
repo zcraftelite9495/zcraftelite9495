@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🛁 "Treat yourself to a relaxing bath or shower, self-care matters."
+🍪 "Bake or buy your favorite snack, you deserve it."
 <!--END_SECTION:zDailyTip-->
   
 
