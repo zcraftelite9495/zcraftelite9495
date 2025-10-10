@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
+📚 "Try to learn something new every week, even if it’s small!"
 <!--END_SECTION:zDailyTip-->
   
 
