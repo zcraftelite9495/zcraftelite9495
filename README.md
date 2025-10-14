@@ -181,10 +181,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z-NET Server             6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.73 % 
 Z-NET Services Authentica5 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   40.73 % 
 ZNetMediaCenter          1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
