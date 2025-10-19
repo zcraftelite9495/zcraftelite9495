@@ -33,7 +33,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
+🔧 "If you play modded Minecraft, use Figura, it's very customizable!"
 <!--END_SECTION:zDailyTip-->
   
 
