@@ -181,10 +181,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z's World Website        3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
 Z-NET Services Authentica3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
 Teaching HTML            2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
