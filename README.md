@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/youtube/channel/subscribers/UCmzYJthOjXSwrET0Wfkj8tA?style=flat&logo=youtube&logoColor=white&label=youtube%20subs&color=ff69b4" alt="YouTube Channel Subscribers"/>
 <img src="https://img.shields.io/twitch/status/zcraftelite?style=flat&logo=twitch&logoColor=white&color=ff69b4&label=twitch%20status" alt="Twitch Status"/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/191247669128200192)](https://discord.com/users/191247669128200192)
+[![Discord Presence](https://lanyard.cnrad.dev/api/926788037785047050)](https://discord.com/users/926788037785047050)
   
   ## ⚧️</br>Name & Pronouns
 
