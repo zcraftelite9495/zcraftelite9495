@@ -183,10 +183,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z's World Website        6 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
 Z-NET Services Authentica2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
 Equicord                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
