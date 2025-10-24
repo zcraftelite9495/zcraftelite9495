@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💕 "You’re not stupid, silly! Just misunderstood, and that’s okay :3"
+🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
 <!--END_SECTION:zDailyTip-->
   
 
