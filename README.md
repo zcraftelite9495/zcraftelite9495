@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
+🍪 "Bake or buy your favorite snack, you deserve it."
 <!--END_SECTION:zDailyTip-->
   
 
