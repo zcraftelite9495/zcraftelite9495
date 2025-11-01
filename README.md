@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 ZcraftElite Site Homepage3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
 Equicord                 2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
 ZcraftElite API          1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
