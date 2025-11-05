@@ -185,8 +185,10 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
+🐱‍💻 Projects: 
 Z-NET Server             3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 ZcraftElite Site Homepage3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 Z-NET Portal             3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
