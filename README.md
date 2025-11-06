@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🔄 "Version pin your mods! Updates break more than just code! X3"
+🧷 "Your identity is valid! Code like it, live like it, and shine bright >:3"
 <!--END_SECTION:zDailyTip-->
   
 
