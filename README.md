@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🧷 "Your identity is valid! Code like it, live like it, and shine bright >:3"
+❤️ "You’re never alone, okay? There will always be people here for you, hugs! ^-^"
 <!--END_SECTION:zDailyTip-->
   
 
