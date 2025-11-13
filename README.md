@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🦄 "Be yourself; everyone else is already taken (and probably boring X3)."
+🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
 <!--END_SECTION:zDailyTip-->
   
 
