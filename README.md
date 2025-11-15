@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z-NET Server             8 hrs 7 mins        ██████████████░░░░░░░░░░░   54.95 % 
 ZNetMediaCenter          2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 Z-NET Webhook Manager    1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
