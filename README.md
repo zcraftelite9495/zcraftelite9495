@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
+🦄 "Be yourself; everyone else is already taken (and probably boring X3)."
 <!--END_SECTION:zDailyTip-->
   
 
