@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
+🛁 "Treat yourself to a relaxing bath or shower, self-care matters."
 <!--END_SECTION:zDailyTip-->
   
 
