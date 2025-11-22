@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🛁 "Treat yourself to a relaxing bath or shower, self-care matters."
+🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
 <!--END_SECTION:zDailyTip-->
   
 
