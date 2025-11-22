@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 MediaCenterEnhanced      1 hr 55 mins        █████████████████████████   98.92 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
