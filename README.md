@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
+🗺️ "In Minecraft, Worldedit is powerful! Don’t forget backups before big changes :P"
 <!--END_SECTION:zDailyTip-->
   
 
