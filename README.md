@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 TI-84 PCE - Owner Informa10 mins             ███████████████████████░░   90.54 % 
 Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
