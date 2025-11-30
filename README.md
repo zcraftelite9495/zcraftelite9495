@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-❤️ "You’re never alone, okay? There will always be people here for you, hugs! ^-^"
+🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
 <!--END_SECTION:zDailyTip-->
   
 
