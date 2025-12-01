@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
+🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
 <!--END_SECTION:zDailyTip-->
   
 
