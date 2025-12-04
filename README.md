@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🔄 "Version pin your mods! Updates break more than just code! X3"
+🐛 "Bugs are pesky, but you got this! Don’t feel too down when you find em >_<"
 <!--END_SECTION:zDailyTip-->
   
 
