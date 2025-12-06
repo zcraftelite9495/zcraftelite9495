@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 ZNetMediaCenter          7 mins              █████████████████████████   98.54 % 
 VencordStuffs            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
