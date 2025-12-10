@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
+🎵 "Don't be afraid to jam out. Wake up your dang neighbors! >:3"
 <!--END_SECTION:zDailyTip-->
   
 
