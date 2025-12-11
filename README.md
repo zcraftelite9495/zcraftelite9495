@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎵 "Don't be afraid to jam out. Wake up your dang neighbors! >:3"
+🐱 "Talk to your pets like they understand, they probably do. :3"
 <!--END_SECTION:zDailyTip-->
   
 
