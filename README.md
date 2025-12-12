@@ -185,8 +185,10 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
+🐱‍💻 Projects: 
 Unknown Project          2 hrs 36 mins       █████████████████░░░░░░░░   69.33 % 
 β-sheet Prion Analysis   1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   30.35 % 
 VencordStuffs            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
