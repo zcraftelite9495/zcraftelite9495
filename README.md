@@ -185,8 +185,10 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
+🐱‍💻 Projects: 
 Unknown Project          2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
 Z-NET Torrent            1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   31.19 % 
 β-sheet Prion Analysis   1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
