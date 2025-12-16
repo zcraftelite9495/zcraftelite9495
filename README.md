@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-❤️ "You’re never alone, okay? There will always be people here for you, hugs! ^-^"
+🦄 "Be yourself; everyone else is already taken (and probably boring X3)."
 <!--END_SECTION:zDailyTip-->
   
 
