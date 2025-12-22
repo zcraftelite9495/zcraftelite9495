@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
+🧁 "A cute aesthetic can make you happier to use your programs."
 <!--END_SECTION:zDailyTip-->
   
 
