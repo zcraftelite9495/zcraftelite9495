@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🧁 "A cute aesthetic can make you happier to use your programs."
+🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
 <!--END_SECTION:zDailyTip-->
   
 
