@@ -185,8 +185,10 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 ```
 
