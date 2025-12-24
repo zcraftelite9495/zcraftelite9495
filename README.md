@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
+🖤 "You’re not too much! The world’s just not used to your kind of awesome :P"
 <!--END_SECTION:zDailyTip-->
   
 
