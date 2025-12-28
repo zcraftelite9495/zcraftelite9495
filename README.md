@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💞 "Love your friends, support your chosen family, they matter most."
+🔁 "Before optimizing, ask: ‘Is it even needed more than once?’"
 <!--END_SECTION:zDailyTip-->
   
 
