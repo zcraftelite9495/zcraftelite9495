@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🔁 "Before optimizing, ask: ‘Is it even needed more than once?’"
+🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
 <!--END_SECTION:zDailyTip-->
   
 
