@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
+🐛 "Bugs are pesky, but you got this! Don’t feel too down when you find em >_<"
 <!--END_SECTION:zDailyTip-->
   
 
