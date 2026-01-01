@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐛 "Bugs are pesky, but you got this! Don’t feel too down when you find em >_<"
+🧁 "A cute aesthetic can make you happier to use your programs."
 <!--END_SECTION:zDailyTip-->
   
 
