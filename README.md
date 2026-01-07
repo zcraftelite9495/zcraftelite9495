@@ -185,9 +185,13 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-No Activity Tracked This Week
+🐱‍💻 Projects: 
+ZNetMediaCenter          10 hrs 17 mins      █████████████████████████   99.44 % 
+VencordStuffs            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
