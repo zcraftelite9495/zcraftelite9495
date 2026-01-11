@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
+🔁 "Before optimizing, ask: ‘Is it even needed more than once?’"
 <!--END_SECTION:zDailyTip-->
   
 
