@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🔁 "Before optimizing, ask: ‘Is it even needed more than once?’"
+💻 "Always backup your configurations, okie? Future you will thank you :3"
 <!--END_SECTION:zDailyTip-->
   
 
