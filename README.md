@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Equicord                 50 mins             █████████████████████████   99.87 % 
 VencordStuffs            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
