@@ -185,9 +185,11 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-VencordStuffs            0 secs              █████████████████████████   100.00 % 
+🐱‍💻 Projects: 
+Unknown Project          0 secs              █████████████████████████   100.00 % 
 ```
 
 
