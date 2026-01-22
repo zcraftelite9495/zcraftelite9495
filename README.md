@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
+🧷 "Your identity is valid! Code like it, live like it, and shine bright >:3"
 <!--END_SECTION:zDailyTip-->
   
 
