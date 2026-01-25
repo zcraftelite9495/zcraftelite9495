@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
+🐾 "Give your pets extra cuddles and belly rubs, they’ll thank you."
 <!--END_SECTION:zDailyTip-->
   
 
