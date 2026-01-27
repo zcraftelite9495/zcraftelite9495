@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🍪 "Bake or buy your favorite snack, you deserve it."
+🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
 <!--END_SECTION:zDailyTip-->
   
 
