@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐱 "Talk to your pets like they understand, they probably do. :3"
+🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
 <!--END_SECTION:zDailyTip-->
   
 
