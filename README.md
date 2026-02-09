@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Unknown Project          1 hr 41 mins        █████████████████████████   98.02 % 
 equibop                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
