@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐾 "Give your pets extra cuddles and belly rubs, they’ll thank you."
+💕 "You’re not stupid, silly! Just misunderstood, and that’s okay :3"
 <!--END_SECTION:zDailyTip-->
   
 
