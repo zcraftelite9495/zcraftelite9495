@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
+🐾 "Make your OC in Blockbench, it’s way more expressive than you think :3"
 <!--END_SECTION:zDailyTip-->
   
 
