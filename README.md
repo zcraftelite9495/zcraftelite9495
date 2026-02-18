@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 ZsEmailTemplates         25 mins             █████████████████░░░░░░░░   67.70 % 
 Unknown Project          12 mins             ████████░░░░░░░░░░░░░░░░░   32.30 % 
 ```
