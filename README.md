@@ -185,9 +185,11 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-Unknown Project          31 mins             █████████████████████████   100.00 % 
+🐱‍💻 Projects: 
+Unknown Project          19 mins             █████████████████████████   100.00 % 
 ```
 
 
