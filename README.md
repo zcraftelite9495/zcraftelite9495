@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-❤️ "You’re never alone, okay? There will always be people here for you, hugs! ^-^"
+📅 "If you plan your week, always leave wiggle room to have fun."
 <!--END_SECTION:zDailyTip-->
   
 
