@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📅 "If you plan your week, always leave wiggle room to have fun."
+📚 "Try to learn something new every week, even if it’s small!"
 <!--END_SECTION:zDailyTip-->
   
 
