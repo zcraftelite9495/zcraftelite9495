@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📚 "Try to learn something new every week, even if it’s small!"
+🧁 "A cute aesthetic can make you happier to use your programs."
 <!--END_SECTION:zDailyTip-->
   
 
