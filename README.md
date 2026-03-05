@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎵 "Don't be afraid to jam out. Wake up your dang neighbors! >:3"
+🔧 "If you play modded Minecraft, use Figura, it's very customizable!"
 <!--END_SECTION:zDailyTip-->
   
 
