@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🔧 "If you play modded Minecraft, use Figura, it's very customizable!"
+🧩 "Mod with purpose, add features that make your world richer."
 <!--END_SECTION:zDailyTip-->
   
 
