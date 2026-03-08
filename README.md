@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💻 "Always backup your configurations, okie? Future you will thank you :3"
+🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
 <!--END_SECTION:zDailyTip-->
   
 
