@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Unknown Project          4 hrs 2 mins        ██████████████████████░░░   89.70 % 
 vencord                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 cc_decoder               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
