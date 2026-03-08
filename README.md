@@ -185,11 +185,15 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-Unknown Project          2 hrs 1 min         █████████████████████░░░░   85.62 % 
-vencord                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-VencordStuffs            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+🐱‍💻 Projects: 
+Unknown Project          4 hrs 2 mins        ██████████████████████░░░   89.70 % 
+vencord                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+cc_decoder               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+VencordStuffs            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Z-NET Server             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 
