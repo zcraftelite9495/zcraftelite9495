@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
+🧩 "Mod with purpose, add features that make your world richer."
 <!--END_SECTION:zDailyTip-->
   
 
