@@ -185,13 +185,15 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-Unknown Project          4 hrs 42 mins       ██████████████████░░░░░░░   73.50 % 
-Z-NET Server             1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-vencord                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-cc_decoder               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-My Application           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+🐱‍💻 Projects: 
+Unknown Project          2 hrs 48 mins       █████████████████░░░░░░░░   66.89 % 
+Z-NET Server             1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+cc_decoder               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+My Application           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+ZNetMediaCenter          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
