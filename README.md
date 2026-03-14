@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Unknown Project          2 hrs 48 mins       █████████████████░░░░░░░░   66.89 % 
 Z-NET Server             1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
 cc_decoder               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
