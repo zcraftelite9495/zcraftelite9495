@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Z-NET Server             1 hr 10 mins        ███████████████░░░░░░░░░░   60.00 % 
 Unknown Project          40 mins             █████████░░░░░░░░░░░░░░░░   34.83 % 
 My Application           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
