@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 My Application           3 mins              ███████████████░░░░░░░░░░   58.84 % 
 Unknown Project          2 mins              ██████████░░░░░░░░░░░░░░░   41.16 % 
 ```
