@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🛁 "Treat yourself to a relaxing bath or shower, self-care matters."
+🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
 <!--END_SECTION:zDailyTip-->
   
 
