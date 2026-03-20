@@ -185,10 +185,15 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-Unknown Project          16 mins             ████████████████████████░   95.71 % 
-Equicord                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+🐱‍💻 Projects: 
+Unknown Project          58 mins             █████████████████████░░░░   83.11 % 
+Z-NET Webhook Manager    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Equicord                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+vencord                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Z-NET Server             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
