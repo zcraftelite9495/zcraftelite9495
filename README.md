@@ -185,13 +185,15 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-ZNetMediaCenter          10 hrs 48 mins      ██████████████████████░░░   88.68 % 
-Unknown Project          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Equicord                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Z-NET Webhook Manager    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Z-NET Services Authentica0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+🐱‍💻 Projects: 
+ZNetMediaCenter          13 hrs 39 mins      █████████████████░░░░░░░░   66.16 % 
+ZNetMediaStats           5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Unknown Project          1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Equicord                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Z-NET Webhook Manager    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 
