@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐾 "Give your pets extra cuddles and belly rubs, they’ll thank you."
+🎵 "Don't be afraid to jam out. Wake up your dang neighbors! >:3"
 <!--END_SECTION:zDailyTip-->
   
 
