@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🛁 "Treat yourself to a relaxing bath or shower, self-care matters."
+🔄 "Version pin your mods! Updates break more than just code! X3"
 <!--END_SECTION:zDailyTip-->
   
 
