@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 ZNetMediaCenter          9 hrs               ███████████████░░░░░░░░░░   61.32 % 
 ZNetMediaStats           5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.98 % 
 Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
