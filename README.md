@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🧩 "Mod with purpose, add features that make your world richer."
+🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
 <!--END_SECTION:zDailyTip-->
   
 
