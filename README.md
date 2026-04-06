@@ -185,10 +185,12 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-Z's World Website        5 hrs 5 mins        ██████████████████████░░░   88.08 % 
-Unknown Project          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+🐱‍💻 Projects: 
+Z's World Website        2 hrs 56 mins       █████████████████████░░░░   82.45 % 
+Unknown Project          37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
 ```
 
 
