@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🍪 "Bake or buy your favorite snack, you deserve it."
+📚 "Try to learn something new every week, even if it’s small!"
 <!--END_SECTION:zDailyTip-->
   
 
