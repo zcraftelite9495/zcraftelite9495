@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📚 "Try to learn something new every week, even if it’s small!"
+💕 "You’re not stupid, silly! Just misunderstood, and that’s okay :3"
 <!--END_SECTION:zDailyTip-->
   
 
