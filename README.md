@@ -185,9 +185,12 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-No Activity Tracked This Week
+🐱‍💻 Projects: 
+Unknown Project          40 mins             █████████████░░░░░░░░░░░░   51.53 % 
+ZNetMediaCenter          37 mins             ████████████░░░░░░░░░░░░░   48.47 % 
 ```
 
 
