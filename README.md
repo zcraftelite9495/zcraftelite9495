@@ -185,13 +185,15 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-Unknown Project          3 hrs 43 mins       █████████████████████░░░░   83.80 % 
-ZNetMediaCenter          37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Z-NET Server             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-My Application           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-openvr                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+🐱‍💻 Projects: 
+Wholphin                 5 hrs 10 mins       █████████████░░░░░░░░░░░░   53.70 % 
+Unknown Project          3 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.80 % 
+ZNetMediaCenter          37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Z-NET Server             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+My Application           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 
