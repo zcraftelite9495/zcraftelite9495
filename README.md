@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Wholphin                 5 hrs 10 mins       ████████████████░░░░░░░░░   62.09 % 
 Unknown Project          3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.82 % 
 Z-NET Server             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
