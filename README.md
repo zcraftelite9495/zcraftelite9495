@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
+🐾 "Make your OC in Blockbench, it’s way more expressive than you think :3"
 <!--END_SECTION:zDailyTip-->
   
 
