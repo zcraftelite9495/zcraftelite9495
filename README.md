@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐾 "Make your OC in Blockbench, it’s way more expressive than you think :3"
+🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
 <!--END_SECTION:zDailyTip-->
   
 
