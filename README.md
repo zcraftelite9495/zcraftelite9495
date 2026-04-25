@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🦄 "Be yourself; everyone else is already taken (and probably boring X3)."
+🔁 "Before optimizing, ask: ‘Is it even needed more than once?’"
 <!--END_SECTION:zDailyTip-->
   
 
