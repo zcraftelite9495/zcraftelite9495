@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 Wholphin                 5 hrs 10 mins       ████████████████░░░░░░░░░   63.91 % 
 BoozLink                 1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
 Unknown Project          54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
