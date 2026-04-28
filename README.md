@@ -185,10 +185,8 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
-📊 **This Week I Spent My Time On** 
 
 ```text
-🐱‍💻 Projects: 
 BoozLink                 1 hr 59 mins        █████████████████░░░░░░░░   68.32 % 
 Unknown Project          54 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
 openvr                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
