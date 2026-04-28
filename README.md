@@ -185,13 +185,14 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-Wholphin                 5 hrs 10 mins       ████████████████░░░░░░░░░   63.91 % 
-BoozLink                 1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-Unknown Project          54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-openvr                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Z's World Website        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+🐱‍💻 Projects: 
+BoozLink                 1 hr 59 mins        █████████████████░░░░░░░░   68.32 % 
+Unknown Project          54 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
+openvr                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Z's World Website        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 
