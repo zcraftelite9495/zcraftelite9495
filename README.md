@@ -185,13 +185,15 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-ZcraftElite Site Homepage1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
-BoozLink                 1 hr 59 mins        ██████████░░░░░░░░░░░░░░░   40.57 % 
-Unknown Project          54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-openvr                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Z's World Website        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+🐱‍💻 Projects: 
+ZcraftElite Site Homepage4 hrs 56 mins       ██████████████░░░░░░░░░░░   54.32 % 
+BoozLink                 1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+ZcraftElite API          1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Wholphin                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
