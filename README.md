@@ -185,8 +185,10 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
+🐱‍💻 Projects: 
 ZcraftElite Site Homepage5 hrs 8 mins        ██████████████░░░░░░░░░░░   54.75 % 
 ZcraftElite API          2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
 BoozSite                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
