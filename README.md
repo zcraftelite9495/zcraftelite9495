@@ -185,13 +185,15 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-ZcraftElite Site Homepage5 hrs 8 mins        ██████████████░░░░░░░░░░░   54.75 % 
-ZcraftElite API          2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-BoozSite                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Wholphin                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+🐱‍💻 Projects: 
+ZcraftElite Site Homepage3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.51 % 
+ZcraftElite API          2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+BoozSite                 1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+Wholphin                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 
