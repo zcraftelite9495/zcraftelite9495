@@ -185,9 +185,12 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-ZcraftElite Site Homepage18 mins             █████████████████████████   100.00 % 
+🐱‍💻 Projects: 
+Booz-n-Boyz Link         21 mins             █████████████░░░░░░░░░░░░   53.66 % 
+ZcraftElite Site Homepage18 mins             ████████████░░░░░░░░░░░░░   46.34 % 
 ```
 
 
