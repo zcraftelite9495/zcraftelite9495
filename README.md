@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
+📚 "Try to learn something new every week, even if it’s small!"
 <!--END_SECTION:zDailyTip-->
   
 
