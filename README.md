@@ -185,8 +185,10 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
+🐱‍💻 Projects: 
 Booz-n-Boyz Website      11 hrs 36 mins      ███████████████████████░░   92.55 % 
 Booz-n-Boyz Link         30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ZcraftElite Site Homepage18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
