@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📚 "Try to learn something new every week, even if it’s small!"
+🔧 "If you play modded Minecraft, use Figura, it's very customizable!"
 <!--END_SECTION:zDailyTip-->
   
 
