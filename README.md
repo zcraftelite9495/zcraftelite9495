@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💞 "Love your friends, support your chosen family, they matter most."
+🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
 <!--END_SECTION:zDailyTip-->
   
 
