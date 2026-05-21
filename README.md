@@ -185,8 +185,10 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
+🐱‍💻 Projects: 
 Booz-n-Boyz Website      2 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
