@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
+📅 "If you plan your week, always leave wiggle room to have fun."
 <!--END_SECTION:zDailyTip-->
   
 
