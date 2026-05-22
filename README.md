@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📅 "If you plan your week, always leave wiggle room to have fun."
+🦄 "Be yourself; everyone else is already taken (and probably boring X3)."
 <!--END_SECTION:zDailyTip-->
   
 
