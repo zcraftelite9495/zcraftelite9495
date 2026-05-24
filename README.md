@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🦄 "Be yourself; everyone else is already taken (and probably boring X3)."
+🍪 "Bake or buy your favorite snack, you deserve it."
 <!--END_SECTION:zDailyTip-->
   
 
