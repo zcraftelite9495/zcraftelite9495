@@ -185,9 +185,12 @@
 
 ### Projects (This Week)
 <!--START_SECTION:projectStats-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-Booz-n-Boyz Website      43 mins             █████████████████████████   100.00 % 
+🐱‍💻 Projects: 
+Booz-n-Boyz Website      3 hrs 49 mins       █████████████████████████   99.85 % 
+BoozBoyzSite             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 
