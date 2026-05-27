@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
+🔁 "Before optimizing, ask: ‘Is it even needed more than once?’"
 <!--END_SECTION:zDailyTip-->
   
 
