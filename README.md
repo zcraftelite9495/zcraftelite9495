@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🔁 "Before optimizing, ask: ‘Is it even needed more than once?’"
+🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
 <!--END_SECTION:zDailyTip-->
   
 
