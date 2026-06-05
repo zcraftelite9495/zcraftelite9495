@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
+🔄 "Version pin your mods! Updates break more than just code! X3"
 <!--END_SECTION:zDailyTip-->
   
 
