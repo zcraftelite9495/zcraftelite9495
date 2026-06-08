@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💻 "Always backup your configurations, okie? Future you will thank you :3"
+🎵 "Don't be afraid to jam out. Wake up your dang neighbors! >:3"
 <!--END_SECTION:zDailyTip-->
   
 
