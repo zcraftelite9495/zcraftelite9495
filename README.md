@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-❤️ "You’re never alone, okay? There will always be people here for you, hugs! ^-^"
+🧩 "Mod with purpose, add features that make your world richer."
 <!--END_SECTION:zDailyTip-->
   
 
