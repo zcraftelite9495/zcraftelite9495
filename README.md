@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💻 "Always backup your configurations, okie? Future you will thank you :3"
+🐾 "Make your OC in Blockbench, it’s way more expressive than you think :3"
 <!--END_SECTION:zDailyTip-->
   
 
