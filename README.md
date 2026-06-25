@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📚 "Try to learn something new every week, even if it’s small!"
+🧷 "Your identity is valid! Code like it, live like it, and shine bright >:3"
 <!--END_SECTION:zDailyTip-->
   
 
