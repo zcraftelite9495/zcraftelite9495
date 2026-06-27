@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💕 "You’re not stupid, silly! Just misunderstood, and that’s okay :3"
+🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
 <!--END_SECTION:zDailyTip-->
   
 
