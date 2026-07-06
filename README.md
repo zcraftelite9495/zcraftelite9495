@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🧩 "Mod with purpose, add features that make your world richer."
+🧁 "A cute aesthetic can make you happier to use your programs."
 <!--END_SECTION:zDailyTip-->
   
 
