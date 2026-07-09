@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🧷 "Your identity is valid! Code like it, live like it, and shine bright >:3"
+🛁 "Treat yourself to a relaxing bath or shower, self-care matters."
 <!--END_SECTION:zDailyTip-->
   
 
