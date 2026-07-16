@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💕 "You’re not stupid, silly! Just misunderstood, and that’s okay :3"
+🐛 "Bugs are pesky, but you got this! Don’t feel too down when you find em >_<"
 <!--END_SECTION:zDailyTip-->
   
 
