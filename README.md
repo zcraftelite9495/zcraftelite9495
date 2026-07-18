@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🛁 "Treat yourself to a relaxing bath or shower, self-care matters."
+💞 "Love your friends, support your chosen family, they matter most."
 <!--END_SECTION:zDailyTip-->
   
 
