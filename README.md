@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💞 "Love your friends, support your chosen family, they matter most."
+🐾 "Give your pets extra cuddles and belly rubs, they’ll thank you."
 <!--END_SECTION:zDailyTip-->
   
 
