@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐕 "Spend time with your animals, cutie! Code can wait, they can’t :3"
+🦄 "Be yourself; everyone else is already taken (and probably boring X3)."
 <!--END_SECTION:zDailyTip-->
   
 
