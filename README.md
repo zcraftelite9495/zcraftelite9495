@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💞 "Love your friends, support your chosen family, they matter most."
+💕 "You’re not stupid, silly! Just misunderstood, and that’s okay :3"
 <!--END_SECTION:zDailyTip-->
   
 
