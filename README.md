@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
+🔧 "If you play modded Minecraft, use Figura, it's very customizable!"
 <!--END_SECTION:zDailyTip-->
   
 
