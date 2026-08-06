@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📚 "Try to learn something new every week, even if it’s small!"
+🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
 <!--END_SECTION:zDailyTip-->
   
 
