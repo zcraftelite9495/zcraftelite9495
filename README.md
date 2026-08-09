@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
+🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
 <!--END_SECTION:zDailyTip-->
   
 
