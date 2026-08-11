@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-📅 "If you plan your week, always leave wiggle room to have fun."
+🐱 "Talk to your pets like they understand, they probably do. :3"
 <!--END_SECTION:zDailyTip-->
   
 
