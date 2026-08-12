@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🐱 "Talk to your pets like they understand, they probably do. :3"
+🔄 "Version pin your mods! Updates break more than just code! X3"
 <!--END_SECTION:zDailyTip-->
   
 
