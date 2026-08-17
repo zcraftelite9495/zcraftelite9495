@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🖤 "You’re not too much! The world’s just not used to your kind of awesome :P"
+🐾 "Give your pets extra cuddles and belly rubs, they’ll thank you."
 <!--END_SECTION:zDailyTip-->
   
 
