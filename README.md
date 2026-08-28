@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🧩 "Mod with purpose, add features that make your world richer."
+🗺️ "In Minecraft, Worldedit is powerful! Don’t forget backups before big changes :P"
 <!--END_SECTION:zDailyTip-->
   
 
