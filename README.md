@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🍪 "Bake or buy your favorite snack, you deserve it."
+🐱 "Talk to your pets like they understand, they probably do. :3"
 <!--END_SECTION:zDailyTip-->
   
 
