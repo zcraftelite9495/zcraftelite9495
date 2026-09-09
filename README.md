@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💻 "Always backup your configurations, okie? Future you will thank you :3"
+🧁 "A cute aesthetic can make you happier to use your programs."
 <!--END_SECTION:zDailyTip-->
   
 
