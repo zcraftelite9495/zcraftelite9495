@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
+❤️ "You’re never alone, okay? There will always be people here for you, hugs! ^-^"
 <!--END_SECTION:zDailyTip-->
   
 
