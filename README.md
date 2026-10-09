@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌸 "Let your README be your resume: personality meets polish, with extra fluff~"
+🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
 <!--END_SECTION:zDailyTip-->
   
 
