@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌙 "Don't be afraid to take a moonlight stroll, it can help refresh your mood. >:3"
+🍪 "Bake or buy your favorite snack, you deserve it."
 <!--END_SECTION:zDailyTip-->
   
 
