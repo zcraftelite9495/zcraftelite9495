@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🗺️ "In Minecraft, Worldedit is powerful! Don’t forget backups before big changes :P"
+🐾 "Give your pets extra cuddles and belly rubs, they’ll thank you."
 <!--END_SECTION:zDailyTip-->
   
 
