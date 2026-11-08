@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-💻 "Always backup your configurations, okie? Future you will thank you :3"
+🧩 "Mod with purpose, add features that make your world richer."
 <!--END_SECTION:zDailyTip-->
   
 
