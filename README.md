@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🌳 "Spend time outdoors to refresh your mood and creativity, breathe deep."
+🐛 "Bugs are pesky, but you got this! Don’t feel too down when you find em >_<"
 <!--END_SECTION:zDailyTip-->
   
 
