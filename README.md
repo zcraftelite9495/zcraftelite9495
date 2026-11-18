@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🎨 "Doodle whenever you feel stuck, creativity flows best when you're messy."
+🐛 "Bugs are pesky, but you got this! Don’t feel too down when you find em >_<"
 <!--END_SECTION:zDailyTip-->
   
 
