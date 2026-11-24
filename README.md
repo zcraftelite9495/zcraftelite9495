@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🧁 "A cute aesthetic can make you happier to use your programs."
+❤️ "You’re never alone, okay? There will always be people here for you, hugs! ^-^"
 <!--END_SECTION:zDailyTip-->
   
 
