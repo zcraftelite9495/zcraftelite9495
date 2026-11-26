@@ -37,7 +37,7 @@
 
   ## 💡</br>Daily Tip
 <!--START_SECTION:zDailyTip-->
-🖤 "You’re not too much! The world’s just not used to your kind of awesome :P"
+❤️ "You’re never alone, okay? There will always be people here for you, hugs! ^-^"
 <!--END_SECTION:zDailyTip-->
   
 
